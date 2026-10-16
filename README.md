@@ -105,8 +105,8 @@ Use this checklist to track assignment progress.
 - [x] `.gitignore` file present.
 - [x] `README.md` created.
 - [x] `CLAUDE.md` created.
-- [ ] At least three meaningful Conventional Commits verified in the Git history.
-- [ ] Genuine screenshot showing Claude Code or Cursor completing a task.
+- [x] At least three meaningful Conventional Commits verified in the Git history.
+- [x] Genuine screenshot showing Claude Code or Cursor completing a task.
 
 The final two items should only be marked complete after the commit history and screenshot have been verified.
 
