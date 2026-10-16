@@ -24,8 +24,7 @@ Before working with this repository, ensure you have:
 
 - **Git** installed for version control.
 - A **GitHub account** to access and manage the repository.
-- **Claude Code or Cursor** for the AI-assisted development task and screenshot deliverable.
-- A terminal or development environment where you can run Git commands.
+- An AI coding assistant suitable for the assignment, such as Claude Code, Cursor, or another tool permitted by the internship coordinator.- A terminal or development environment where you can run Git commands.
 
 ## Getting Started
 
